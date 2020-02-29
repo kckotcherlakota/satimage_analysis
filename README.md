@@ -8,7 +8,6 @@ Currently, the best existing agorithms take a few frames, and if the frames are 
 Reconstruction, however, is just a first step towards SSA. After a satellite image is reconstructed, it still remains to classify its model, determine its orientation parameters, and its intent. Our work investigates novel techniques to achieve these goals.
 
 
-### INITIAL FILES INCLUDED IN THE FILE_1 Folder 
 
 
   
