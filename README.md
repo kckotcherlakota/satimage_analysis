@@ -9,7 +9,7 @@ Reconstruction, however, is just a first step towards SSA. After a satellite ima
 
 
 ### References 
-[test link](https://github.com/kckotcherlakota/satimage_analysis)
+[link for RNN](https://github.com/tvavlad123/cnn-rnn-lstm-image-recognition/blob/master/train_rnn.py)
 
 
   
